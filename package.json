@@ -1,0 +1,26 @@
+{
+  "name": "database_advance",
+  "version": "1.0.0",
+  "description": "crud operation and advance concepts",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "db",
+    "node",
+    "backend"
+  ],
+  "author": "bikash gupta",
+  "license": "ISC",
+  "dependencies": {
+    "cookie-parser": "^1.4.7",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.12.1",
+    "nodemon": "^3.1.9",
+    "zod": "^3.24.2"
+  }
+}
